@@ -6,13 +6,13 @@ from rich.tree import Tree
 
 console = Console(record=True, width=110)
 
-tree = Tree("🤓 [link=https://www.talhaouy.me]Med Talhaouy", guide_style="bold cyan")
+tree = Tree("🤓 [link=https://www.talhaouy.me]Mhamed Talhaouy", guide_style="bold cyan")
 python_tree = tree.add("🐘 PHP|Laravel Expert", guide_style="green")
-python_tree.add("➫ Nodejs | Express | Vuejs | EtherJ")
+python_tree.add("➫ Nodejs | Vuejs")
 python_tree.add("➫ LangChain | PyTorch | Pandas | Numpy")
-python_tree.add("➫ PHP | Python | JavaScript | Solidity")
-python_tree.add("➫ AWS | Docker | CI/CD | Linux | Nginx")
-python_tree.add("➫ MySQL | MongoDB | Redis")
+python_tree.add("➫ PHP | Python | Js | Solidity")
+python_tree.add("➫ AWS | CI/CD | Nginx")
+python_tree.add("➫ MySQL | Docker | Redis")
 full_stack_tree = tree.add("🧹 Clean Coder")
 
 about = """
