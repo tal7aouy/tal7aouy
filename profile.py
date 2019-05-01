@@ -8,17 +8,15 @@ console = Console(record=True, width=110)
 
 tree = Tree("🤓 [link=https://www.talhaouy.me]Med Talhaouy", guide_style="bold cyan")
 python_tree = tree.add("🐘 PHP|Laravel Expert", guide_style="green")
-python_tree.add("✅ PyTorch")
+python_tree.add("✅ PyTorch, Pandas, Numpy")
 python_tree.add("✅ LangChain (NLP)")
-python_tree.add("✅ Pandas,Numpy")
-python_tree.add("✅ Matplotlib")
-python_tree.add("✅ NodeJS")
+python_tree.add("✅ Bun")
 python_tree.add("✅ Docker")
 python_tree.add("✅ MySQL, MongoDB, Redis")
 full_stack_tree = tree.add("🧹 Clean Coder")
 
 about = """
-I'm a software engineer with a playful attitude but a serious work ethic. I enjoy solving problems rather than complaining about them. While I keep the mood light, my commitment to security is rock solid. I ensure that my code is as secure as possible, focusing on robust solutions that keep vulnerabilities at bay.
+I'm a software developer and security engineer with a passion for building things, breaking things, and building things that break things, but not breaking things that build things - that's just mean.
 [green]Follow me on twitter [bold link=https://twitter.com/tal7aouy]@tal7aouy[/]"""
 
 
