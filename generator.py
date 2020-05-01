@@ -10,13 +10,15 @@ tree = Tree("🤓 [link=https://www.talhaouy.me]Med Talhaouy", guide_style="bold
 python_tree = tree.add("🐘 PHP|Laravel Expert", guide_style="green")
 python_tree.add("✅ PyTorch")
 python_tree.add("✅ LangChain (NLP)")
-python_tree.add("✅ Pandas, Numpy, Matplotlib")
+python_tree.add("✅ Pandas,Numpy")
+python_tree.add("✅ Matplotlib")
 python_tree.add("✅ NodeJS")
-python_tree.add("✅ Docker, MySQL, MongoDB, Redis")
+python_tree.add("✅ Docker")
+python_tree.add("✅ MySQL, MongoDB, Redis")
 full_stack_tree = tree.add("🧹 Clean Coder")
 
 about = """
-I'm a software Engineer, living in Morocco. I may not take myself very seriously but take my job very seriously and loves solving problems instead of complaining about them.
+I'm a software engineer with a playful attitude but a serious work ethic. I enjoy solving problems rather than complaining about them. While I keep the mood light, my commitment to security is rock solid. I ensure that my code is as secure as possible, focusing on robust solutions that keep vulnerabilities at bay.
 [green]Follow me on twitter [bold link=https://twitter.com/tal7aouy]@tal7aouy[/]"""
 
 
