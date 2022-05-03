@@ -20,7 +20,7 @@ const tal7aouy = {
   askMeAbout: ['web dev', 'tech', 'app dev', 'problem solver'],
   technologies: {
     backEnd: {
-      back: ['Laravel', 'Express'],
+      back: ['Laravel', 'Symfony'],
     },
     frontend: {
       front: [
@@ -28,7 +28,6 @@ const tal7aouy = {
         'React.js',
         'Redux',
         'Vuex',
-        'Scss',
         'Css',
         'Tailwind.css',
         'Bootstrap',
