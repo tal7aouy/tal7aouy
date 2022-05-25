@@ -16,17 +16,16 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 ```javascript
 const tal7aouy = {
   pronouns: 'He' | 'Him',
-  code: ['Javascript', 'Typescript', 'C/C++', 'PHP'],
+  code: ['Javascript', 'Typescript', 'C', 'PHP', 'python'],
   askMeAbout: ['web dev', 'tech', 'app dev', 'problem solver'],
   technologies: {
     backEnd: {
-      back: ['Laravel', 'Symfony'],
+      back: ['Laravel'],
     },
     frontend: {
       front: [
         'Vue.js',
         'React.js',
-        'Redux',
         'Vuex',
         'Css',
         'Tailwind.css',
