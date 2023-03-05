@@ -20,8 +20,9 @@ const tal7aouy = {
   askMeAbout: ['web dev', 'tech', 'app dev', 'problem solver'],
   technologies: {
       techs: ['ReactJs', 'NextJs', 'VueJs', 'Javascript', 'Typescript', 'Solidity', 'Hardhat', 'PHP', 'Laravel'],
-      blockchain: ['Ethereum', 'Polygon'],
+      blockchain: ['Ethereum'],
     databases: ['MySql'],
+    devops: ['Docker']
     
   },
   currentFocus: 'Building Robots to ease opertations',
