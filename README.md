@@ -16,17 +16,14 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 ```javascript
 const tal7aouy = {
   pronouns: 'He' | 'Him',
-  code: ['Javascript', 'Typescript', 'C', 'PHP', 'Solidity'],
+  code: ['Javascript', 'Typescript', 'C', 'PHP'],
   askMeAbout: ['web dev', 'tech', 'app dev', 'problem solver'],
   technologies: {
-      techs: ['ReactJs', 'NextJs', 'VueJs', 'Javascript', 'Typescript', 'Solidity', 'Hardhat', 'PHP', 'Laravel'],
-      blockchain: ['Ethereum'],
+      techs: ['Laravel', 'ReactJs','VueJs'],
     databases: ['MySql'],
-    devops: ['Docker']
+    Others: ['Docker', 'Redis', 'ChatGPT']
     
   },
-  currentFocus: 'Building Robots to ease opertations',
-  funFact:
-    'There are two ways to write error-free programs; only the third one works',
+  'The future is yours ,Live in present and《code》your dreams!🚀'
 }
 ```
