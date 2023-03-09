@@ -16,11 +16,11 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 ```javascript
 const tal7aouy = {
   pronouns: 'He' | 'Him',
-  code: ['Javascript', 'Typescript', 'C', 'PHP'],
+  languages: ['Javascript', 'Typescript', 'C', 'PHP'],
   askMeAbout: ['web dev', 'tech', 'app dev', 'problem solver'],
   technologies: {
       techs: ['Laravel', 'ReactJs','VueJs'],
-    databases: ['MySql'],
+    databases: ['MySql', 'Sql Server'],
     Others: ['Docker', 'Redis', 'ChatGPT']
     
   },
