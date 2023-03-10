@@ -16,14 +16,21 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 ```javascript
 const tal7aouy = {
   pronouns: 'He' | 'Him',
-  languages: ['Javascript', 'Typescript', 'C', 'PHP'],
+  languages: [ 'PHP', 'Javascript', 'Typescript', 'C'],
   askMeAbout: ['web dev', 'tech', 'app dev', 'problem solver'],
   technologies: {
       techs: ['Laravel', 'ReactJs','VueJs'],
     databases: ['MySql', 'Sql Server'],
-    Others: ['Docker', 'Redis', 'ChatGPT']
+    Others: ['Docker', 'Redis', 'ChatGPT', 'Clean Code']
     
   },
   'The future is yours ,Live in present and《code》your dreams!🚀'
 }
 ```
+#### Github Stats 📊
+
+[![Talhaouy's github stats](https://github-readme-stats.vercel.app/api?username=tal7aouy)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Mhammed Talhaouy Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tal7aouy/)
+[![Mhammed Talhaouy Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MedTalhaouy)
+[![Mhammed Talhaouy StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14920101/mhammed-talhaouy)
