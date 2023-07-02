@@ -17,7 +17,7 @@ class Attributes(Med Talhaouy):
 	@staticmethod
 	def coding() -> tuple:
 		langs = {
-			'expert':   ['PHP', 'Laravel', 'Vue.js', 'React.js', 'Apis'],
+			'expert':   ['PHP', 'Laravel', 'Vue.js','Apis'],
 			'intermediate': ['python', 'js', 'Solidity', 'Nodejs'],
 			'learning': ['Rust', 'Design Pattern', 'Clean Code']
 		}
