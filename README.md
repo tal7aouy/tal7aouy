@@ -1,5 +1,5 @@
 ```python
-class Attributes(Med Talhaouy):
+class Attributes(Tal7aouy):
 	@staticmethod
 	def contact() -> tuple:
 	    twitter  = "tal7aouy"
