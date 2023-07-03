@@ -26,3 +26,6 @@ class Attributes(Tal7aouy):
 		
 		return langs, specialities, environnement
 ```
+![GitHub Snake Light](https://github.com/tal7aouy/tal7aouy/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/tal7aouy/tal7aouy/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+
