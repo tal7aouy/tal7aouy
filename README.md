@@ -1,4 +1,28 @@
- 
+ ### 👋 &nbsp;Hi there, I'm Mhammed
+
+> Take it like you wanna.
+
+- 🧑🏻‍💻 Software Engineer
+
+#### ☎️ Find me
+
+- <img height="10" src="https://api.iconify.design/fxemoji:email.svg">  [Email](mailto:tal7aouy@gmail.com)
+- <img height="10" src="https://api.iconify.design/logos:twitter.svg"> [Twitter](https://twitter.com/tal7aouy)
+- <img height="10" src="https://api.iconify.design/logos:blogger.svg">  [Personal Website](https://tal7aouy.me)
+
+
+#### 🛠 Tech Stack
+
+<code><img height="20" src="https://api.iconify.design/logos-typescript-icon.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/logos-nodejs-icon.svg"></code>
+<code><img height="20" src="https://api.iconify.design/logos-docker.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/logos:vue.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/logos:mysql.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/logos-vitest.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/logos-php.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/logos-laravel.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/logos-redis.svg"></code>&nbsp;
+
 <div align="center">
 
 
