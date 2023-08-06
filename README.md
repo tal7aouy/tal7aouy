@@ -1,4 +1,4 @@
- ### 👋 &nbsp;Hi there, I'm Mhammed
+ ### 👋 &nbsp;Hi there
 
 > Take it like you wanna.
 
