@@ -2,7 +2,7 @@
 
 > Take it like you wanna.
 
-- 🧑🏻‍💻 Software Engineer
+- 🧑🏻‍💻 Software Engineer | Problem Solver
 
 #### ☎️ Find me
 
@@ -12,16 +12,19 @@
 
 
 #### 🛠 Tech Stack
-
-<code><img height="20" src="https://api.iconify.design/logos-typescript-icon.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos-nodejs-icon.svg"></code>
-<code><img height="20" src="https://api.iconify.design/logos-docker.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos:vue.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos:mysql.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos-vitest.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos-php.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos-laravel.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/logos-symfony.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/logos-nodejs-icon.svg"></code>
+<code><img height="20" src="https://api.iconify.design/logos-javascript.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/logos-typescript-icon.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/logos-php.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/logos-python.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/logos-rust.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/logos:vue.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/logos-docker.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/logos:mysql.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos-redis.svg"></code>&nbsp;
+
 
 <div align="center">
   <a href="https://github.com/tal7aouy/ssr-contributions-img">
