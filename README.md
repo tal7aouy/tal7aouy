@@ -2,13 +2,13 @@
 
 > Take it like you wanna.
 
-- 🧑🏻‍💻 Software Engineer | Problem Solver
+- 🧑🏻‍💻 Software Engineer | 🧠 Problem Solver
 
 #### ☎️ Find me
 
 - <img height="10" src="https://api.iconify.design/fxemoji:email.svg">  [Email](mailto:tal7aouy@gmail.com)
 - <img height="10" src="https://api.iconify.design/logos:twitter.svg"> [Twitter](https://twitter.com/tal7aouy)
-- <img height="10" src="https://api.iconify.design/logos:blogger.svg">  [Personal Website](https://tal7aouy.me)
+- <img height="10" src="https://api.iconify.design/logos:blogger.svg">  [Personal Website](https://talhaouy.me)
 
 
 #### 🛠 Tech Stack
