@@ -1,38 +1,9 @@
- ### 👋 &nbsp;Hi there
-
-> Take it like you wanna.
-
-- 🧑🏻‍💻 Software Engineer | 🧠 Problem Solver
-
-#### ☎️ Find me
-
-- <img height="10" src="https://api.iconify.design/fxemoji:email.svg">  [Email](mailto:tal7aouy@gmail.com)
-- <img height="10" src="https://api.iconify.design/logos:twitter.svg"> [Twitter](https://twitter.com/tal7aouy)
-- <img height="10" src="https://api.iconify.design/logos:blogger.svg">  [Personal Website](https://talhaouy.me)
-
-
-#### 🛠 Tech Stack
-<code><img height="20" src="https://api.iconify.design/logos-laravel.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos-symfony.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos-nodejs-icon.svg"></code>
-<code><img height="20" src="https://api.iconify.design/logos-javascript.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos-typescript-icon.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos-php.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos-python.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos-rust.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos:vue.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos-docker.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos:mysql.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos-redis.svg"></code>&nbsp;
-
-
-<div align="center">
-  <a href="https://github.com/tal7aouy/ssr-contributions-img">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/tal7aouy?chart=3dbar&gap=0.3&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native&dark=true">
-      <source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/tal7aouy?chart=3dbar&gap=0.3&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native">
-      <img alt="" src="https://ssr-contributions-svg.vercel.app/_/tal7aouy?chart=3dbar&flatten=1&weeks=40&animation=wave&format=svg&gap=0.3&animation_frequency=0.2&animation_amplitude=20&theme=pink">
-    </picture>
-  </a>
-</div>
-
+<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace"><span style="color: #000080; text-decoration-color: #000080">╔════════════════════════ </span><span style="color: #000080; text-decoration-color: #000080; font-weight: bold">Hi there</span><span style="color: #000080; text-decoration-color: #000080"> ════════════════════════╗</span> 🤓 <a href="https://www.talhaouy.me">Med Talhaouy</a>          
+<span style="color: #000080; text-decoration-color: #000080">║</span> I&#x27;m a software Engineer, living in Casablanca, Morocco.  <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┣━━ </span>🐘 PHP|Laravel Expert
+<span style="color: #000080; text-decoration-color: #000080">║</span> I may not take myself very seriously but take my job     <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┃   </span><span style="color: #008000; text-decoration-color: #008000">┣━━ </span>⭐ <a href="https://github.com/tal7aouy/vscode-icons">Icons</a>         
+<span style="color: #000080; text-decoration-color: #000080">║</span> very seriously and loves solving problems instead of     <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┃   </span><span style="color: #008000; text-decoration-color: #008000">┣━━ </span>⭐ <a href="https://github.com/tal7aouy/theme">Theme</a>         
+<span style="color: #000080; text-decoration-color: #000080">║</span> complaining about them.                                  <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┃   </span><span style="color: #008000; text-decoration-color: #008000">┗━━ </span>⭐ <a href="https://github.com/tal7aouy/aveta">Aveta</a>         
+<span style="color: #000080; text-decoration-color: #000080">║</span>                                                          <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┗━━ </span>🔧 Problem Solver    
+<span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008000; text-decoration-color: #008000">Follow me on twitter </span><span style="color: #008000; text-decoration-color: #008000; font-weight: bold"><a href="https://twitter.com/tal7aouy">@tal7aouy</a></span>                           <span style="color: #000080; text-decoration-color: #000080">║</span>                          
+<span style="color: #000080; text-decoration-color: #000080">╚══════════════════════════════════════════════════════════╝</span>                          
+</pre>
