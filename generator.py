@@ -8,20 +8,19 @@ console = Console(record=True, width=100)
 
 tree = Tree("🤓 [link=https://www.talhaouy.me]Med Talhaouy", guide_style="bold cyan")
 python_tree = tree.add("🐘 PHP|Laravel Expert", guide_style="green")
-python_tree.add("⭐ Node.js")
-python_tree.add("⭐ Symfony")
-python_tree.add("⭐ Vue.js")
-python_tree.add("⭐ Docker")
-python_tree.add("⭐ Redis")
-full_stack_tree = tree.add("🔧 Problem Solver")
+python_tree.add("✅ Node.js")
+python_tree.add("✅ Python")
+python_tree.add("✅ JavaScript")
+python_tree.add("✅ TypeScript")
+full_stack_tree = tree.add("🔧 Решение проблем")
 
-about = """\
-I'm a software Engineer, living in [link=]Casablanca[/], Morocco. I may not take myself very seriously but take my job very seriously and loves solving problems instead of complaining about them.
+about = """ Я инженер-программист, может быть, не очень серьезно отношусь к себе, но очень серьезно отношусь к своей работе и люблю 
+решать проблемы, а не жаловаться на них.
 
-[green]Follow me on twitter [bold link=https://twitter.com/tal7aouy]@tal7aouy[/]"""
+[green]Следите за мной в twitter [bold link=https://twitter.com/tal7aouy]@tal7aouy[/]"""
 
 panel = Panel.fit(
-    about, box=box.DOUBLE, border_style="blue", title="[b]Hi there", width=60
+  about, box=box.DOUBLE, border_style="blue", title="[b]Здравствуйте", width=60
 )
 
 console.print(Columns([panel, tree]))
