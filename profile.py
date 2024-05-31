@@ -11,8 +11,8 @@ python_tree = tree.add("🐘 PHP|Laravel Expert", guide_style="green")
 python_tree.add("✅ PyTorch, Pandas, Numpy")
 python_tree.add("✅ LangChain")
 python_tree.add("✅ Bun, Nodejs")
-python_tree.add("✅ Docker")
-python_tree.add("✅ MySQL, MongoDB, Redis")
+python_tree.add("✅ PHP | Python | Ts | Js | Go")
+python_tree.add("✅ Docker, MySQL, MongoDB, Redis")
 full_stack_tree = tree.add("🧹 Clean Coder")
 
 about = """
