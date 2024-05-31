@@ -9,8 +9,8 @@ console = Console(record=True, width=110)
 tree = Tree("🤓 [link=https://www.talhaouy.me]Med Talhaouy", guide_style="bold cyan")
 python_tree = tree.add("🐘 PHP|Laravel Expert", guide_style="green")
 python_tree.add("✅ PyTorch, Pandas, Numpy")
-python_tree.add("✅ LangChain (NLP)")
-python_tree.add("✅ Bun")
+python_tree.add("✅ LangChain")
+python_tree.add("✅ Bun, Nodejs")
 python_tree.add("✅ Docker")
 python_tree.add("✅ MySQL, MongoDB, Redis")
 full_stack_tree = tree.add("🧹 Clean Coder")
@@ -21,7 +21,7 @@ I'm a software developer and security engineer with a passion for building thing
 
 
 panel = Panel.fit(
-  about, box=box.DOUBLE, border_style="blue", title="[b]👋 Hey there", width=60
+    about, box=box.DOUBLE, border_style="blue", title="[b]👋 Hey there", width=60
 )
 
 console.print(Columns([panel, tree]))
