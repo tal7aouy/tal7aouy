@@ -11,12 +11,12 @@ python_tree = tree.add("🐘 PHP|Laravel Expert", guide_style="green")
 python_tree.add("✅ PyTorch, Pandas, Numpy")
 python_tree.add("✅ LangChain")
 python_tree.add("✅ Bun, Nodejs")
-python_tree.add("✅ PHP | Python | Ts | Js | Go")
+python_tree.add("✅ PHP | Python | Js | Go")
 python_tree.add("✅ Docker, MySQL, MongoDB, Redis")
 full_stack_tree = tree.add("🧹 Clean Coder")
 
 about = """
-I'm a software developer and security engineer with a passion for building things, breaking things, and building things that break things, but not breaking things that build things - that's just mean.
+I'm a software and security engineer with a passion for building things, breaking things, and building things that break things, but not breaking things that build things - that's just mean.
 [green]Follow me on twitter [bold link=https://twitter.com/tal7aouy]@tal7aouy[/]"""
 
 
