@@ -8,11 +8,11 @@ console = Console(record=True, width=110)
 
 tree = Tree("🤓 [link=https://www.talhaouy.me]Med Talhaouy", guide_style="bold cyan")
 python_tree = tree.add("🐘 PHP|Laravel Expert", guide_style="green")
-python_tree.add("✅ PyTorch, Pandas, Numpy")
-python_tree.add("✅ LangChain")
-python_tree.add("✅ Bun, Nodejs")
-python_tree.add("✅ PHP | Python | Js | Go | Solidity")
-python_tree.add("✅ Docker, MySQL, MongoDB, Redis")
+python_tree.add("➫ PyTorch, Pandas, Numpy")
+python_tree.add("➫ LangChain")
+python_tree.add("➫ Bun, Nodejs")
+python_tree.add("➫ PHP | Python | Js | Go | Solidity")
+python_tree.add("➫ Docker, MySQL, MongoDB, Redis")
 full_stack_tree = tree.add("🧹 Clean Coder")
 
 about = """
