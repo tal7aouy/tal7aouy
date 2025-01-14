@@ -9,7 +9,7 @@ console = Console(record=True, width=110)
 
 # Expertise Tree
 tree = Tree("🤓 [link=https://talhaouy.me]Mhammed Talhaouy", guide_style="bold cyan")
-expertise_tree = tree.add("💻 Senior Software Engineer | Web3 & Security Enthusiast", guide_style="bold green")
+expertise_tree = tree.add("💻 Sr Software Engineer | Web3 & Security Enthusiast", guide_style="bold green")
 expertise_tree.add("🐘 PHP | Laravel Specialist")
 expertise_tree.add("🚀 Node.js | Vue.js")
 expertise_tree.add("🧠 LangChain | PyTorch | Pandas | NumPy")
