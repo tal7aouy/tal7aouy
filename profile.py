@@ -16,7 +16,7 @@ expertise_tree.add("🧠 LangChain | PyTorch | Pandas | NumPy")
 expertise_tree.add("🛠️ Solidity | Smart Contracts")
 expertise_tree.add("☁️ AWS | CI/CD Pipelines | Nginx")
 expertise_tree.add("📦 MySQL | Docker | Redis")
-tree.add("🧹 Clean Coder | Building Robust, Maintainable Code")
+tree.add("🧹 Clean Coder | 🕵️ Auditor")
 
 # About Panel
 about_content = """
@@ -31,7 +31,7 @@ about_panel = Panel.fit(
     box=box.DOUBLE,
     border_style="blue",
     title="[b]👋 Welcome",
-    width=45,
+    width=50,
 )
 
 # Display Content
