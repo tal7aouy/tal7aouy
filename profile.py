@@ -5,7 +5,7 @@ from rich.panel import Panel
 from rich.tree import Tree
 
 # Initialize Console
-console = Console(record=True, width=120)
+console = Console(record=True, width=110)
 
 # Expertise Tree
 tree = Tree("🤓 [link=https://talhaouy.me]Mhammed Talhaouy", guide_style="bold cyan")
@@ -31,7 +31,7 @@ about_panel = Panel.fit(
     box=box.DOUBLE,
     border_style="blue",
     title="[b]👋 Welcome",
-    width=50,
+    width=45,
 )
 
 # Display Content
