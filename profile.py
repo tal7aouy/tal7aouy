@@ -5,16 +5,16 @@ from rich.panel import Panel
 from rich.tree import Tree
 
 # Initialize Console
-console = Console(record=True, width=180)
+console = Console(record=True, width=120)
 
 # Build Expertise Tree
-tree = Tree("🤓 [link=https://www.talhaouy.me]Mhamed Talhaouy", guide_style="bold cyan")
+tree = Tree("🤓 [link=https://www.talhaouy.me]Mhammed Talhaouy", guide_style="bold cyan")
 expertise_tree = tree.add("💻 Senior Software Engineer | Web3 & Security Enthusiast", guide_style="bold green")
 
 # Add technical expertise
 expertise_tree.add("🐘 PHP | Laravel Specialist")
-expertise_tree.add("🚀 Node.js | Vue.js | Frontend & Backend Development")
-expertise_tree.add("🧠 LangChain | PyTorch | Data Analysis with Pandas & NumPy")
+expertise_tree.add("🚀 Node.js | Vue.js")
+expertise_tree.add("🧠 LangChain | PyTorch | Pandas | NumPy")
 expertise_tree.add("🛠️ Solidity | Blockchain & Smart Contracts")
 expertise_tree.add("☁️ AWS | CI/CD Pipelines | Nginx")
 expertise_tree.add("📦 MySQL | Docker | Redis")
@@ -36,6 +36,7 @@ about_panel = Panel.fit(
     box=box.DOUBLE,
     border_style="blue",
     title="[b]👋 Welcome",
+    width=50,
 )
 
 # Display Content
