@@ -28,7 +28,7 @@ about_panel = Panel.fit(
     box=box.DOUBLE,
     border_style="blue",
     title="[b]👋 Welcome",
-    width=60,
+    width=50,
 )
 
 # Display Content
